@@ -1,0 +1,50 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "46f685ff380dd2cfb6ab290f8ccdeb04",
+                "name": "1",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "شېھىتلەر گۈلىستانى يەتتە قىزلىرىم 1. قىسىم   ئاۋازلىق ئەسەر",
+                "url": "static/7 Qiz/1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "46f685ff380dd2cfb6ab290f8ccdeb04",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "f81be0a1033e1c5b3f5d3b541930ee1f",
+                "name": "2",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "شېھىتلەر گۈلىستانى يەتتە قىزلىرىم 2. قىسىم   ئاۋازلىق ئەسەر",
+                "url": "static/7 Qiz/2.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "f81be0a1033e1c5b3f5d3b541930ee1f",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "b1638c4d8963c4ed51a947914c62b29c",
+                "name": "3",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "شېھىتلەر گۈلىستانى يەتتە قىزلىرىم 3. قىسىم  ئاخىرقى قىسىم  ئاۋازلىق ئەسەر",
+                "url": "static/7 Qiz/3.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "b1638c4d8963c4ed51a947914c62b29c",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
