@@ -7,33 +7,7 @@
         "creatorAvatar": "images/avatar.jpg",
         "item": [
             {
-                "id": "46f685ff380dd2cfb6ab290f8ccdeb04",
-                "name": "1",
-                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
-                "album": "شېھىتلەر گۈلىستانى يەتتە قىزلىرىم 1. قىسىم   ئاۋازلىق ئەسەر",
-                "url": "static/7 Qiz/1.mp3",
-                "pic": "",
-                "lyric": "",
-                "source": "local",
-                "url_id": "46f685ff380dd2cfb6ab290f8ccdeb04",
-                "pic_id": "",
-                "lyric_id": ""
-            },
-            {
-                "id": "f81be0a1033e1c5b3f5d3b541930ee1f",
-                "name": "2",
-                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
-                "album": "شېھىتلەر گۈلىستانى يەتتە قىزلىرىم 2. قىسىم   ئاۋازلىق ئەسەر",
-                "url": "static/7 Qiz/2.mp3",
-                "pic": "",
-                "lyric": "",
-                "source": "local",
-                "url_id": "f81be0a1033e1c5b3f5d3b541930ee1f",
-                "pic_id": "",
-                "lyric_id": ""
-            },
-            {
-                "id": "b1638c4d8963c4ed51a947914c62b29c",
+                "id": "4b121f73c1a9c35b2a1aeeb2cd73cda7",
                 "name": "3",
                 "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
                 "album": "شېھىتلەر گۈلىستانى يەتتە قىزلىرىم 3. قىسىم  ئاخىرقى قىسىم  ئاۋازلىق ئەسەر",
@@ -41,7 +15,33 @@
                 "pic": "",
                 "lyric": "",
                 "source": "local",
-                "url_id": "b1638c4d8963c4ed51a947914c62b29c",
+                "url_id": "4b121f73c1a9c35b2a1aeeb2cd73cda7",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "ac2fed270263d878114794a63440e73c",
+                "name": "2",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "شېھىتلەر گۈلىستانى يەتتە قىزلىرىم 2. قىسىم   ئاۋازلىق ئەسەر",
+                "url": "static/7 Qiz/2.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "ac2fed270263d878114794a63440e73c",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "290d97af587f4aad748425f82be831d9",
+                "name": "1",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "شېھىتلەر گۈلىستانى يەتتە قىزلىرىم 1. قىسىم   ئاۋازلىق ئەسەر",
+                "url": "static/7 Qiz/1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "290d97af587f4aad748425f82be831d9",
                 "pic_id": "",
                 "lyric_id": ""
             }
